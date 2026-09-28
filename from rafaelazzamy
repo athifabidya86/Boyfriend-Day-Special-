@@ -1,4 +1,4 @@
-# 💝 Valentine's Day Website 2026 💝
+# 💞 Boyfriend's Day Website 2026 💞
 
 [![Stars](https://img.shields.io/github/stars/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/stargazers)
 [![Fork](https://img.shields.io/github/forks/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/fork)
@@ -50,8 +50,8 @@ pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
-    hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
-    bears: ['🧸', '🐻']                       // Bear emojis in background
+    hearts: ['💗', '💞', '💕', '🤍', '🩷'],  // Heart emojis in background
+    bears: ['💌', '😻']                       // pesan cat emojis in background
 }
 
 // Questions and Buttons
@@ -68,7 +68,7 @@ questions: {
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
+        text: "Will you be my Boyfriend day!...?",      // Final question
         yesBtn: "Yes!",                            // Yes button text
         noBtn: "No"                                // No button text
     }
@@ -85,7 +85,7 @@ loveMessages: {
 celebration: {
     title: "Yay! I'm the luckiest person...",     // Celebration title
     message: "Now come get your gift...",          // Celebration message
-    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
+    emojis: "💕🤍🩷🤩💌😻🫰"                        // Celebration emojis
 }
 
 // Website Colors
@@ -204,4 +204,4 @@ If it helped you create something special, you can support the project with a sm
 Thank you for keeping it alive!
 
 ## 📜 License
-MIT License - Feel free to use this for your Valentine! 
+MIT License - Feel free to use this for your Boyfriend's dayyy!! 💌😻
